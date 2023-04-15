@@ -1,0 +1,16 @@
+
+.header {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    align-content: center;
+}
+
+
+
+.Container {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    align-content: center;
+}
